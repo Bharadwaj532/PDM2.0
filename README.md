@@ -1,4 +1,4 @@
-# Package Deployment Manager 2.0 - Technical Documentation
+# Package Development Manager 2.0 - Technical Documentation
 
 ## Table of Contents
 1. [Application Overview](#application-overview)
@@ -17,7 +17,7 @@
 ## Application Overview
 
 ### Purpose
-Package Deployment Manager 2.0 is a comprehensive Windows application designed for automated software package testing, installation, and validation. It provides enterprise-level package management capabilities with detailed reporting and logging.
+Package Development Manager 2.0 is a comprehensive Windows application designed for automated software package testing, installation, and validation. It provides enterprise-level package management capabilities with detailed reporting and logging.
 
 ### Key Capabilities
 - **Multi-Source Package Support**: Network archives, completed packages, and local installers
@@ -39,7 +39,7 @@ Package Deployment Manager 2.0 is a comprehensive Windows application designed f
 
 ### Application Structure
 ```
-Package Deployment Manager 2.0
+Package Development Manager 2.0
 ├── Core Engine (PowerShell)
 ├── GUI Framework (Windows Forms)
 ├── Package Management System
